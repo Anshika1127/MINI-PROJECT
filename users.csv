@@ -1,0 +1,25 @@
+	user_id	gender	age	occupation	zipcode	age_desc	occ_desc
+0	1	F	1	10	48067	Under 18	K-12 student
+1	2	M	56	16	70072	56+	self-employed
+2	3	M	25	15	55117	25-34	scientist
+3	4	M	45	7	02460	45-49	executive/managerial
+4	5	M	25	20	55455	25-34	writer
+5	6	F	50	9	55117	50-55	homemaker
+6	7	M	35	1	06810	35-44	academic/educator
+7	8	M	25	12	11413	25-34	programmer
+8	9	M	25	17	61614	25-34	technician/engineer
+9	10	F	35	1	95370	35-44	academic/educator
+10	11	F	25	1	04093	25-34	academic/educator
+11	12	M	25	12	32793	25-34	programmer
+12	13	M	45	1	93304	45-49	academic/educator
+13	14	M	35	0	60126	35-44	other or not specified
+14	15	M	25	7	22903	25-34	executive/managerial
+15	16	F	35	0	20670	35-44	other or not specified
+16	17	M	50	1	95350	50-55	academic/educator
+17	18	F	18	3	95825	18-24	clerical/admin
+18	19	M	1	10	48073	Under 18	K-12 student
+19	20	M	25	14	55113	25-34	sales/marketing
+20	21	M	18	16	99353	18-24	self-employed
+21	22	M	18	15	53706	18-24	scientist
+22	23	M	35	0	90049	35-44	other or not specified
+23	24	F	25	7	10023	25-34	executive/managerial
